@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LAB11-WilliansMalque.API.props" />
+</Project>

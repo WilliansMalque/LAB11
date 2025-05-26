@@ -1,0 +1,17 @@
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\bin\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.deps.json
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\bin\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.runtimeconfig.json
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\bin\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.dll
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\bin\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.pdb
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.dll
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\refint\LAB11-WilliansMalque.Infrastructure.dll
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.pdb
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\LAB11-WilliansMalque.Infrastructure.genruntimeconfig.cache
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\ref\LAB11-WilliansMalque.Infrastructure.dll
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\bin\Debug\net8.0\LAB11-WilliansMalque.Domain.dll
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\bin\Debug\net8.0\LAB11-WilliansMalque.Domain.pdb
+C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\obj\Debug\net8.0\LAB11-Wi.76116CC8.Up2Date
