@@ -1,6 +1,8 @@
-﻿namespace LAB11_WilliansMalque.Application.Tickets.Commands;
+﻿using MediatR;
 
-public class DeleteTicketCommand
+namespace LAB11_WilliansMalque.Application.Tickets.Commands;
+
+public class DeleteTicketCommand : IRequest<bool>
 {
-    
+    public Guid TicketId { get; set; }
 }

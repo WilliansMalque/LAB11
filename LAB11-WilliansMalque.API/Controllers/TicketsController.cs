@@ -12,6 +12,7 @@ namespace LAB11_WilliansMalque.API.Controllers;
 public class TicketsController : ControllerBase
 {
     private readonly IMediator _mediator;
+    
 
     public TicketsController(IMediator mediator)
     {
@@ -31,4 +32,30 @@ public class TicketsController : ControllerBase
         var result = await _mediator.Send(new GetAllTicketsQuery());
         return Ok(result);
     }
+    
+    [HttpPut("{id}/status")]
+    public async Task<IActionResult> UpdateTicketStatus(Guid id, [FromBody] string newStatus)
+    {
+        var command = new UpdateTicketStatusCommand
+        {
+            TicketId = id,
+            NewStatus = newStatus
+        };
+
+        var result = await _mediator.Send(command);
+
+        if (!result) return NotFound("Ticket no encontrado o estado inválido");
+
+        return Ok("Estado actualizado correctamente");
+    }
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteTicket(Guid id)
+    {
+        var command = new DeleteTicketCommand { TicketId = id };
+        var result = await _mediator.Send(command);
+
+        if (!result) return NotFound("Ticket no encontrado");
+        return Ok("Ticket eliminado correctamente");
+    }
+    
 }
