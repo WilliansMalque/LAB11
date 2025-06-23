@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace LAB11_WilliansMalque.Infrastructure.Data.Models;
+﻿namespace LAB11_WilliansMalque.Infrastructure.Models;
 
 public partial class role
 {

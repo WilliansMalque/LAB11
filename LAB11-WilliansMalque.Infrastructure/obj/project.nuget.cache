@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pdZxnRB6W1c=",
+  "dgSpecHash": "Yvn+qo3ztRE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tecsup\\Documents\\LAB11\\LAB11-WilliansMalque\\LAB11-WilliansMalque.Infrastructure\\LAB11-WilliansMalque.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Tecsup\\Documents\\LAB11\\LAB11\\LAB11-WilliansMalque.Infrastructure\\LAB11-WilliansMalque.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tecsup\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Tecsup\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

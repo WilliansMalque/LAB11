@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tecsup\\Documents\\LAB11\\LAB11-WilliansMalque\\LAB11-WilliansMalque.Domain\\LAB11-WilliansMalque.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Tecsup\\Documents\\LAB11\\LAB11\\LAB11-WilliansMalque.Domain\\LAB11-WilliansMalque.Domain.csproj",
       "projectName": "LAB11-WilliansMalque.Domain",
-      "projectPath": "C:\\Users\\Tecsup\\Documents\\LAB11\\LAB11-WilliansMalque\\LAB11-WilliansMalque.Domain\\LAB11-WilliansMalque.Domain.csproj",
+      "projectPath": "C:\\Users\\Tecsup\\Documents\\LAB11\\LAB11\\LAB11-WilliansMalque.Domain\\LAB11-WilliansMalque.Domain.csproj",
       "packagesPath": "C:\\Users\\Tecsup\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tecsup\\Documents\\LAB11\\LAB11-WilliansMalque\\LAB11-WilliansMalque.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Tecsup\\Documents\\LAB11\\LAB11\\LAB11-WilliansMalque.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tecsup\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

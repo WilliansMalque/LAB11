@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using LAB11_WilliansMalque.Infrastructure.Models;
-
-namespace LAB11_WilliansMalque.Infrastructure.Data.Models;
+﻿namespace LAB11_WilliansMalque.Infrastructure.Models;
 
 public partial class ticket
 {

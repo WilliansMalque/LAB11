@@ -1,5 +1,4 @@
-﻿using LAB11_WilliansMalque.Infrastructure.Data.Models;
-using LAB11_WilliansMalque.Infrastructure.Models;
+﻿using LAB11_WilliansMalque.Infrastructure.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace LAB11_WilliansMalque.Infrastructure.Data;

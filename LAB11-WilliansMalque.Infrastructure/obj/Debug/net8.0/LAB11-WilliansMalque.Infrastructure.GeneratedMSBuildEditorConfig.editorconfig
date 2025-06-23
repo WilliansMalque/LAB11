@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LAB11_WilliansMalque.Infrastructure
-build_property.ProjectDir = C:\Users\Tecsup\Documents\LAB11\LAB11-WilliansMalque\LAB11-WilliansMalque.Infrastructure\
+build_property.ProjectDir = C:\Users\Tecsup\Documents\LAB11\LAB11\LAB11-WilliansMalque.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

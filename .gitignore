@@ -1,0 +1,10 @@
+# .gitignore para proyectos .NET
+bin/
+obj/
+.idea/
+*.user
+*.suo
+*.pdb
+*.cache
+*.log
+*.vs/

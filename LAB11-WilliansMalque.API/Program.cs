@@ -7,7 +7,7 @@ builder.Services.AddControllersWithViews();
 
 
 // Centralizamos la configuración de servicios
-builder.Services.AddApplicationServices(builder.Configuration);
+builder.Services.AddApiServices(builder.Configuration);
 
 
 var app = builder.Build();

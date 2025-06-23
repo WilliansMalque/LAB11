@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\LAB11-WilliansMalque.API.props" />
-</Project>

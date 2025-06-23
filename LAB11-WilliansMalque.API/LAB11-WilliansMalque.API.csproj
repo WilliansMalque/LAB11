@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\LAB11-WilliansMalque.Application\LAB11-WilliansMalque.Application.csproj" />
       <ProjectReference Include="..\LAB11-WilliansMalque.Infrastructure\LAB11-WilliansMalque.Infrastructure.csproj" />
     </ItemGroup>
 

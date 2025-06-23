@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LAB11-WilliansMalque.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69daf23c4e02336d9eae1ef64bd3f63751b60ac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LAB11-WilliansMalque.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LAB11-WilliansMalque.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
